@@ -14,10 +14,10 @@ Users are assigned roles (**Admin, User**) and redirected based on their permiss
 
 ## 🛠 Installation & Setup
 1️⃣ Clone the Repository  
-install node modules
+install node modules /
 npm install 
 
-Run The Project
+Run The Project /
 npm run dev
 
 
